@@ -1,0 +1,5 @@
+# Escludo la directory del dataset
+data/raw/celeba/
+
+# Escludo i file ZIP
+*.zip
